@@ -1,0 +1,18 @@
+C:\Users\Omar\source\repos\library Management Project WindowsForm\businessLayer(library)\bin\Debug\businessLayer(library).dll
+C:\Users\Omar\source\repos\library Management Project WindowsForm\businessLayer(library)\bin\Debug\businessLayer(library).pdb
+C:\Users\Omar\source\repos\library Management Project WindowsForm\businessLayer(library)\obj\Debug\businessLayer(library).csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\library Management Project WindowsForm\businessLayer(library)\obj\Debug\businessLayer(library).csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\library Management Project WindowsForm\businessLayer(library)\obj\Debug\businessLayer(library).dll
+C:\Users\Omar\source\repos\library Management Project WindowsForm\businessLayer(library)\obj\Debug\businessLayer(library).pdb
+C:\Users\Omar\source\repos\library Management Project WindowsForm\businessLayer(library)\bin\Debug\DataAccessLayer(Library).dll
+C:\Users\Omar\source\repos\library Management Project WindowsForm\businessLayer(library)\bin\Debug\DataAccessLayer(Library).pdb
+C:\Users\Omar\source\repos\library Management Project WindowsForm\businessLayer(library)\obj\Debug\businessLayer(library).csproj.CopyComplete
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\businessLayer(library)\bin\Debug\businessLayer(library).dll
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\businessLayer(library)\bin\Debug\businessLayer(library).pdb
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\businessLayer(library)\bin\Debug\DataAccessLayer(Library).dll
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\businessLayer(library)\bin\Debug\DataAccessLayer(Library).pdb
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\businessLayer(library)\obj\Debug\businessLayer(library).csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\businessLayer(library)\obj\Debug\businessLayer(library).csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\businessLayer(library)\obj\Debug\businessLayer(library).dll
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\businessLayer(library)\obj\Debug\businessLayer(library).pdb
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\businessLayer(library)\obj\Debug\business.7C0BE03C.Up2Date

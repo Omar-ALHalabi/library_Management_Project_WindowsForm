@@ -1,0 +1,12 @@
+C:\Users\Omar\source\repos\library Management Project WindowsForm\DataAccessLayer(Library)\bin\Debug\DataAccessLayer(Library).dll
+C:\Users\Omar\source\repos\library Management Project WindowsForm\DataAccessLayer(Library)\bin\Debug\DataAccessLayer(Library).pdb
+C:\Users\Omar\source\repos\library Management Project WindowsForm\DataAccessLayer(Library)\obj\Debug\DataAccessLayer(Library).csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\library Management Project WindowsForm\DataAccessLayer(Library)\obj\Debug\DataAccessLayer(Library).csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\library Management Project WindowsForm\DataAccessLayer(Library)\obj\Debug\DataAccessLayer(Library).dll
+C:\Users\Omar\source\repos\library Management Project WindowsForm\DataAccessLayer(Library)\obj\Debug\DataAccessLayer(Library).pdb
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\DataAccessLayer(Library)\bin\Debug\DataAccessLayer(Library).dll
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\DataAccessLayer(Library)\bin\Debug\DataAccessLayer(Library).pdb
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\DataAccessLayer(Library)\obj\Debug\DataAccessLayer(Library).csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\DataAccessLayer(Library)\obj\Debug\DataAccessLayer(Library).csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\DataAccessLayer(Library)\obj\Debug\DataAccessLayer(Library).dll
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\DataAccessLayer(Library)\obj\Debug\DataAccessLayer(Library).pdb

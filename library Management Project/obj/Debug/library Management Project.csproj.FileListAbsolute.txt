@@ -1,0 +1,67 @@
+C:\Users\Omar\source\repos\library Management Project\bin\Debug\library Management Project.exe.config
+C:\Users\Omar\source\repos\library Management Project\bin\Debug\library Management Project.exe
+C:\Users\Omar\source\repos\library Management Project\bin\Debug\library Management Project.pdb
+C:\Users\Omar\source\repos\library Management Project\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Omar\source\repos\library Management Project\obj\Debug\library Management Project.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\library Management Project\obj\Debug\library Management Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Omar\source\repos\library Management Project\obj\Debug\library_Management_Project.Form1.resources
+C:\Users\Omar\source\repos\library Management Project\obj\Debug\library_Management_Project.Properties.Resources.resources
+C:\Users\Omar\source\repos\library Management Project\obj\Debug\library Management Project.csproj.GenerateResource.cache
+C:\Users\Omar\source\repos\library Management Project\obj\Debug\library Management Project.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\library Management Project\obj\Debug\library Management Project.csproj.CopyComplete
+C:\Users\Omar\source\repos\library Management Project\obj\Debug\library Management Project.exe
+C:\Users\Omar\source\repos\library Management Project\obj\Debug\library Management Project.pdb
+C:\Users\Omar\source\repos\library Management Project WindowsForm\library Management Project\bin\Debug\library Management Project.exe.config
+C:\Users\Omar\source\repos\library Management Project WindowsForm\library Management Project\bin\Debug\library Management Project.exe
+C:\Users\Omar\source\repos\library Management Project WindowsForm\library Management Project\bin\Debug\library Management Project.pdb
+C:\Users\Omar\source\repos\library Management Project WindowsForm\library Management Project\obj\Debug\library Management Project.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\library Management Project WindowsForm\library Management Project\obj\Debug\library Management Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Omar\source\repos\library Management Project WindowsForm\library Management Project\obj\Debug\library_Management_Project.Properties.Resources.resources
+C:\Users\Omar\source\repos\library Management Project WindowsForm\library Management Project\obj\Debug\library Management Project.csproj.GenerateResource.cache
+C:\Users\Omar\source\repos\library Management Project WindowsForm\library Management Project\obj\Debug\library Management Project.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\library Management Project WindowsForm\library Management Project\obj\Debug\library Management Project.csproj.CopyComplete
+C:\Users\Omar\source\repos\library Management Project WindowsForm\library Management Project\obj\Debug\library Management Project.exe
+C:\Users\Omar\source\repos\library Management Project WindowsForm\library Management Project\obj\Debug\library Management Project.pdb
+C:\Users\Omar\source\repos\library Management Project WindowsForm\library Management Project\bin\Debug\businessLayer(library).dll
+C:\Users\Omar\source\repos\library Management Project WindowsForm\library Management Project\bin\Debug\DataAccessLayer(Library).dll
+C:\Users\Omar\source\repos\library Management Project WindowsForm\library Management Project\bin\Debug\businessLayer(library).pdb
+C:\Users\Omar\source\repos\library Management Project WindowsForm\library Management Project\bin\Debug\DataAccessLayer(Library).pdb
+C:\Users\Omar\source\repos\library Management Project WindowsForm\library Management Project\obj\Debug\library_Management_Project.FormMain.resources
+C:\Users\Omar\source\repos\library Management Project WindowsForm\library Management Project\obj\Debug\library_Management_Project.SearchForm.resources
+C:\Users\Omar\source\repos\library Management Project WindowsForm\library Management Project\obj\Debug\library_Management_Project.FRM_Add_Edit.resources
+C:\Users\Omar\source\repos\library Management Project WindowsForm\library Management Project\obj\Debug\library_Management_Project.AddCategory.resources
+C:\Users\Omar\source\repos\library Management Project WindowsForm\library Management Project\obj\Debug\library_Management_Project.DeleteCategory.resources
+C:\Users\Omar\source\repos\library Management Project WindowsForm\library Management Project\obj\Debug\library_Management_Project.frm_DeleteDialog.resources
+C:\Users\Omar\source\repos\library Management Project WindowsForm\library Management Project\obj\Debug\library_Management_Project.frm_AddDialog.resources
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\bin\Debug\library Management Project.exe.config
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\bin\Debug\library Management Project.exe.manifest
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\bin\Debug\library Management Project.application
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\bin\Debug\library Management Project.exe
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\bin\Debug\library Management Project.pdb
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\bin\Debug\businessLayer(library).dll
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\bin\Debug\DataAccessLayer(Library).dll
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\bin\Debug\businessLayer(library).pdb
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\bin\Debug\DataAccessLayer(Library).pdb
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\obj\Debug\library Management Project.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\obj\Debug\library_Management_Project.Add_UpdateUsers.resources
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\obj\Debug\library_Management_Project.AddUsers.resources
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\obj\Debug\library_Management_Project.DailySales.resources
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\obj\Debug\library_Management_Project.DeleteCategory.resources
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\obj\Debug\library_Management_Project.AddCategory.resources
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\obj\Debug\library_Management_Project.BookScreen.resources
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\obj\Debug\library_Management_Project.UpdateUser.resources
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\obj\Debug\library_Management_Project.frm_DeleteDialog.resources
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\obj\Debug\library_Management_Project.frm_AddDialog.resources
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\obj\Debug\library_Management_Project.FRM_Add_Edit.resources
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\obj\Debug\library_Management_Project.MainScreen.resources
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\obj\Debug\library_Management_Project.Properties.Resources.resources
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\obj\Debug\library_Management_Project.LogScreen.resources
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\obj\Debug\library_Management_Project.SaleScreen.resources
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\obj\Debug\library_Management_Project.SearchForm.resources
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\obj\Debug\library Management Project.csproj.GenerateResource.cache
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\obj\Debug\library Management Project.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\obj\Debug\library Management Project.exe.manifest
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\obj\Debug\library Management Project.application
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\obj\Debug\library Management Project.exe
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\obj\Debug\library Management Project.pdb
+C:\Users\Omar\source\repos\my projects\library Management Project WindowsForm\library Management Project\obj\Debug\library .DD94BA71.Up2Date
